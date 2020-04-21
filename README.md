@@ -9,3 +9,6 @@ Crabs and Dodos want your sandcastle! Take control of two characters at once and
 Controls: Left Stick - Move Left Character Left Trigger - Strafe Right Stick - Move Right Character Right Trigger - Strafe
 
 Auto-Fire is enabled.
+
+https://static.jam.vg/raw/f7f/91/z/2fc07.png
+
