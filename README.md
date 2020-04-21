@@ -10,5 +10,5 @@ Controls: Left Stick - Move Left Character Left Trigger - Strafe Right Stick - M
 
 Auto-Fire is enabled.
 
-![Crab Castle Crisis](/images/logo.pnghttps://static.jam.vg/raw/f7f/91/z/2fc07.png)
+![Crab Castle Crisis](https://static.jam.vg/raw/f7f/91/z/2fc07.png)
 
